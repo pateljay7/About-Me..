@@ -3,6 +3,6 @@
 
 <html>
   <body>
-<h1>### How to connect me pateljaykjp@gmail.com<h1>
+<h3 style="background:#ccc">### How to connect me pateljaykjp@gmail.com<h3>
     </body>
 </html>
