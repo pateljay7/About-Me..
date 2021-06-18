@@ -1,4 +1,8 @@
 ### Hi , I'm Jay Patel
 ## Computer Engineer | Android Enthusiasts | Django Enthusiasts | React Beginner
 
-# How to connect me pateljaykjp@gmail.com
+<html>
+  <body>
+<h1>### How to connect me pateljaykjp@gmail.com<h1>
+    </body>
+</html>
