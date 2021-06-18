@@ -9,6 +9,8 @@ I am Jay Patel , always learning new things, ready for discussions and making ne
 
 
 | [<img src="https://image.flaticon.com/icons/png/512/226/226777.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="rust logo" width="24">](https://www.rust-lang.org/)|
+|---|---|---|
+
 
 - Learning
 
