@@ -31,7 +31,3 @@ You can find and get touch with me on these accounts!
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/pateljay7) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/patel_jay_.77/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"  width="24">](https://www.hackerrank.com/pateljaykjp)| [<img src="https://www.instituteofexcellence.com/wp-content/uploads/LinkedIn-logo.png" alt="dev logo" width="24">](https://www.linkedin.com/in/jay-patel-301050208)
 |---|---|---|---|
 
----
-Credits: [Delta456](https://github.com/Delta456)
-
-Last Edited on: 30/08/2020
