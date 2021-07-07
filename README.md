@@ -6,7 +6,7 @@
  🌱 &nbsp;I'm on track for learning more about Python, React.\
  ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
  
- 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+ 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1cAjMhyk98fcziUH6AGw_KGpt6h4dlBv7/view?usp=sharing) for more details about me.
 
 
 
