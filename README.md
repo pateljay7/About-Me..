@@ -1,3 +1,4 @@
+
 ### Hi there 👋
 
 I am Jay Patel , always learning new things, ready for discussions and making new projects..
@@ -30,4 +31,17 @@ You can find and get touch with me on these accounts!
 
 | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/pateljay7) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">](https://www.instagram.com/patel_jay_.77/) | [<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"  width="24">](https://www.hackerrank.com/pateljaykjp)| [<img src="https://www.instituteofexcellence.com/wp-content/uploads/LinkedIn-logo.png" alt="dev logo" width="24">](https://www.linkedin.com/in/jay-patel-301050208)
 |---|---|---|---|
+
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://https://github.com/pateljay7">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pateljay7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pateljay7&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
 
