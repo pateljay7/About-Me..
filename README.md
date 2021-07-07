@@ -1,20 +1,14 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
-## Hi, I am Jay Patel
+## Hi, I am Jay Patel 
 
  🎓 &nbsp;I'm currently Pursuing my Btech in Computer Engineering at the Charusat University.\
  🌱 &nbsp;I'm on track for learning more about Python, React.\
- 👬 I’m looking forward to collaborate on different open-source projects
-
- 
+ 👬 &nbsp;I’m looking forward to collaborate on different open-source projects.\
  📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1cAjMhyk98fcziUH6AGw_KGpt6h4dlBv7/view?usp=sharing) for more details about me.
 
 
 
-
-### Hi there 👋
-
-I am Jay Patel , always learning new things, ready for discussions and making new projects..
 
 ### Programming Languages 🌐
 
@@ -51,8 +45,9 @@ I am Jay Patel , always learning new things, ready for discussions and making ne
 
 - Know/Using
 
-| [<img src="https://pbs.twimg.com/profile_images/1276168873226784768/oTUrXdo6_400x400.jpg" alt="actions logo" width="24">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | 
-|---|---|
+| [<img src="https://pbs.twimg.com/profile_images/1276168873226784768/oTUrXdo6_400x400.jpg" alt="actions logo" width="34">](https://github.com/features/actions) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="34">](https://code.visualstudio.com/) |  [<img src="https://pbs.twimg.com/profile_images/1272878892232007680/TIM90dV6_400x400.png" alt="vscode logo" width="34">](https://code.visualstudio.com/) | 
+|---|---|---|
+
 
 ### Other Accounts 📫
 
