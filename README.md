@@ -1,4 +1,16 @@
 
+### 👨🏻‍💻 &nbsp;About Me
+## Hi, I am Jay Patel
+
+ 🎓 &nbsp;I'm currently Pursuing my Btech in Computer Engineering at the Charusat University.\
+ 🌱 &nbsp;I'm on track for learning more about Python, React.\
+ ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+ 
+ 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+
+
+
+
 ### Hi there 👋
 
 I am Jay Patel , always learning new things, ready for discussions and making new projects..
