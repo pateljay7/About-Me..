@@ -5,7 +5,7 @@
  🎓 &nbsp;I'm currently Pursuing my Btech in Computer Engineering at the Charusat University.\
  🌱 &nbsp;I'm on track for learning more about Python, React.\
  👬 &nbsp;I’m looking forward to collaborate on different open-source projects.\
- 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1cAjMhyk98fcziUH6AGw_KGpt6h4dlBv7/view?usp=sharing) for more details about me.
+ 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/17esOh0Spf0gClaYF-kqqQvdND6zs9nQX/view?usp=sharing) for more details about me.
 
 
 
